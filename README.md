@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pooja1234-max
+- 👋 Hi, I’m @Pooja
 - 👀 I’m interested in ..learning.
 - 🌱 I’m currently learning ...Data analytics
 - 💞️ I’m looking to collaborate on ...
